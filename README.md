@@ -6,7 +6,7 @@
 yarn
 ```
 
-## Installation
+## Usage
 
 ```sh
 npm start
